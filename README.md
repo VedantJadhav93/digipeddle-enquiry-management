@@ -83,11 +83,9 @@ Install the following before running the application:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/VedantJadhav93/digipeddle-enquiry-management
 cd Digipeddle Assessment
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual repository URL.
 
 ### 2. Configure the backend
 
@@ -269,7 +267,7 @@ Set production environment variables in the hosting provider's configuration. Up
 
 **Live website:** Add your deployed frontend URL here when available.
 
-**GitHub repository:** Add your repository URL here when available.
+**GitHub repository:** https://github.com/VedantJadhav93/digipeddle-enquiry-management
 
 ## License
 
