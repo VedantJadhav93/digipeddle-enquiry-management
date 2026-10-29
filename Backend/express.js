@@ -48,7 +48,7 @@ const startServer = async () => {
   await connectDB();
 
   app.listen(PORT, () => {
-    console.info(`Server running on http://localhost:${PORT}`);
+    console.info(`Server running on port ${PORT}`);
   });
 };
 
